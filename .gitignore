@@ -217,8 +217,5 @@ config.py
 # Cython debug symbols
 cython_debug/
 
-# Не зберігати секретні дані
-.env
-config.py
-Fix: ignore config.py correctly
+
 
