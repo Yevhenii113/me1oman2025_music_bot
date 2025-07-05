@@ -219,6 +219,6 @@ cython_debug/
 
 # Не зберігати секретні дані
 .env
-config.ry
-
+config.py
+Fix: ignore config.py correctly
 
